@@ -1,0 +1,5 @@
+{
+    "version": "2.0.2",
+    "archive": "RELEASE-2.02.zip", 
+    "description": "+ [Added] - Google and apple login <br/> + [Added] - Guest cart management <br/> + [Added] - Category wise filter in product listing (App) <br/> + [Added] - Category re-order option (Admin panel) <br/> + [Added] - Date filter option (Partner app) <br/> + [Added] - Maintenance mode option [Website]  <br/>  + [Added] - Dark theme mode (Website) <br/> + [Added] - Delivery note (Admin panel, app, website) <br/> + [Added] - Custom sound for receive order (Partner app) <br/> + [Improved] - Cart list screen (Customer app) <br/> + [Improved] - Time slot module <br/> + [Improved] - Login module (Customer app, website) <br/> + [Fixes] -Other major ui improvements"
+}
